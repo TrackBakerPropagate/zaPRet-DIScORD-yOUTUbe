@@ -1,10 +1,10 @@
 # zaPRet-DIScORD-yOUTUbe
 
-Один архив zaPRet-DIScORD-yOUTUbe: обход DPI на Windows. Распаковали и запустили нужный .bat.
+Обновлённая версия с поддержкой Discord и YouTube в текущих условиях. Стабильнее, надежнее, быстрее
 
 Один архив zaPRet-DIScORD-yOUTUbe: обход DPI на Windows. Распаковали и запустили нужный .bat. обход блокировок без VPN, обход DPI Windows, zapret скачать, Discord и YouTube fix. Windows 10 и 11, без VPN.
 
-Релиз: https://github.com/TrackBakerPropagate/zaPRet-DIScORD-yOUTUbe/releases/latest
-Код: https://github.com/TrackBakerPropagate/zaPRet-DIScORD-yOUTUbe
+Релиз: https://github.com/trackbakerpropagate/zaPRet-DIScORD-yOUTUbe/releases/latest
+Код: https://github.com/trackbakerpropagate/zaPRet-DIScORD-yOUTUbe
 Основа: https://github.com/bol-van/zapret
-Страница: https://github.com/TrackBakerPropagate/zaPRet-DIScORD-yOUTUbe
+Страница: https://github.com/trackbakerpropagate/zaPRet-DIScORD-yOUTUbe
